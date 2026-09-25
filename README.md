@@ -298,7 +298,7 @@ Through this project, I practiced:
 
 ---
 
-## 👨‍💻 Author
+## <img width="30" height="30" alt="profile for linkedin" src="https://github.com/user-attachments/assets/d05a7dc0-a2d2-4446-bf62-4dc474680f7b" /> Author
 
 **Bashir Ahmed**
 
